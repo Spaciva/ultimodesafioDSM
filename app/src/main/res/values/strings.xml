@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AulaRecursos</string>
+    <string name="titulo_principal">Recursos de aprendizaje</string>
+    <string name="descripcion_principal">Libros, videos y tutoriales de ingeniería de sistemas</string>
+    <string name="mensaje_inicial">Aquí aparecerán los recursos disponibles.</string>
+
+    <string name="cargando_recursos">Cargando recursos…</string>
+    <string name="sin_recursos">No hay recursos registrados.</string>
+    <string name="error_consulta">No se pudieron cargar los recursos. Código: %1$d</string>
+    <string name="error_conexion">No se pudo conectar. Revisa tu conexión a Internet.</string>
+    <string name="formato_recurso">ID: %1$s\nTítulo: %2$s\nDescripción: %3$s\nTipo: %4$s\nEnlace: %5$s</string>
+
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="action_settings">Configuración</string>
+    <string name="first_fragment_label">Inicio</string>
+    <string name="second_fragment_label">Detalle</string>
+    <string name="lorem_ipsum">Bienvenido a AulaRecursos.</string>
+</resources>
